@@ -1,6 +1,6 @@
 # Terms of Service – Study Ducky
 
-_Last Updated: March 1, 2024_
+_Last Updated: September 18, 2025_
 
 Welcome to **Study Ducky** (the “App”). These Terms of Service (“Terms”) govern your use of the App, which is owned and developed by **Selimhan Altınpınar** (“Developer”).  
 By downloading, accessing, or using the App, you agree to be bound by these Terms.  
